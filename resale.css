@@ -1,0 +1,90 @@
+#heading{
+    font-weight: bolder;
+    font-size: 70px;
+}
+.card-image img{
+    width: 70%;
+    margin-left: 30px;
+} 
+.card{
+    width: 20%;
+    margin-left: 45px;
+    box-shadow: 2px 2px 6px 6px #ccc;
+}
+.container{
+    display:  flex ;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.content h4{
+    padding-top: 30px;
+}
+#heading2{
+font-weight: bolder;
+font-size: 75px;
+}
+.sub-card{
+font-size:bold;
+}
+#first{
+width: 8%;
+margin-top: 60px;
+}
+#second{
+    width: 8%;
+    margin-top: 60px;
+
+    }
+    #third{
+        width: 8%;
+        margin-top: 60px;
+
+        }
+        .cardetails{
+            display: flex;
+            flex-direction: row;
+        }
+        .total{
+            margin-left: 380px;
+            margin-top: 60px;
+        }
+        .second_cards{
+            margin-top: 40px;
+            margin-left: 30px;
+        }
+        .text{
+            margin: 50px;
+        }
+        .big_background{
+            background-image: url(https://wallpapercave.com/wp/wp8879567.jpg);
+            background-position: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+            display: flex;
+            flex-direction: row;
+            padding-bottom: 80px;
+            margin-bottom: 80px;
+        }
+        #pen{
+            width:30%;
+        }
+        .content{
+            margin-left: 110px;
+            margin-top: 90px;
+        }
+        .image_container{
+            margin-left: 160px;
+            margin-top: 130px;
+
+        }
+        .domore img{
+            width: 20%;
+        }
+        .More img{
+            width: 16%;
+        }
+        .newcontainer{
+            display: flex;
+            flex-direction: row;
+        }
